@@ -4,7 +4,7 @@
 
 
 body {
-    
+    vertical-align: middle;
     font-family: Arial, Helvetica, sans-serif;
     color: #777;
     font-size: 18px;    
@@ -24,11 +24,12 @@ header, nav, section, aside, footer {
 }
 
 .article {
-
-    color: #ebebeb;
-    background-color:#777;
+    /* padding: 10px; */
+    color:#ebebeb;
+    background-color: #777;
     margin:10px;
     height:210px;
+    margin-bottom: 15px;
     
 }
 
